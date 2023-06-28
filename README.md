@@ -2,8 +2,7 @@
 ## What I practice
 - Design using only HTML and CSS
 -Responsive
-´Deploy´
-https://comfy-rabanadas-372046.netlify.app
+
 ### `Screen`
 
 
