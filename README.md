@@ -24,6 +24,12 @@ The project is live and can be accessed from the following URL: [https://comfy-r
 
 ---
 
+## `Responsive Design Preview`
+
+![Alt text](img/Ads%C4%B1z.png)
+
+---
+
 ### `Screen`
 
 ![gif](Video_230628232019.gif)
